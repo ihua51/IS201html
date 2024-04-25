@@ -31,13 +31,13 @@ img{
     position: relative;
 }
 .pics {
-    width: 30%; /* Adjust the width as needed */
+    width: 30%; 
     float: left;
-    margin-right: 2.5%; /* Adjust spacing between .pics and .infotext */
+    margin-right: 2.5%; 
     margin-left: 2.5%
 }
 .infotext {
-    width: 30%; /* Adjust the width as needed */
+    width: 30%; 
     float: left;
     margin-right: 2.5%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

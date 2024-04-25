@@ -1,0 +1,84 @@
+h1{
+    color:rgb(233, 222, 125);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.subheading {
+    font-style: italic;
+}
+h2{
+    color:rgb(184, 202, 80)
+}
+.head{
+    position: relative;
+    top: auto;
+}
+.HIhead{
+    color:black;
+    text-align: center;
+}
+.HIsubhead{
+    color:black;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+img{
+    display: block;
+    width: 100%;
+}
+.container {
+    position: relative;
+}
+.pics {
+    width: 30%; /* Adjust the width as needed */
+    float: left;
+    margin-right: 2.5%; /* Adjust spacing between .pics and .infotext */
+    margin-left: 2.5%
+}
+.infotext {
+    width: 30%; /* Adjust the width as needed */
+    float: left;
+    margin-right: 2.5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pics2{
+    width: 30%;
+    float: left;
+}
+
+iframe{
+    float: left;
+    margin-left:25%;
+
+}
+
+.resumehead{
+    text-align: center;
+}
+.resume{
+    float:left;
+    margin-left: 2.5%;
+    text-align: left;
+}
+
+.resumesubhead{
+    color: black;
+}
+
+.anchor{
+    text-align: center;
+}
+
+nav{
+    overflow: hidden;
+}
+
+nav a{
+    float:left;
+    padding: 13px;
+    color: rgb(107, 88, 252);
+    font-size: medium;
+    font-weight: bold;
+    text-decoration: none;
+}
